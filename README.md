@@ -14,8 +14,13 @@ Quick start with Gitpod
 Quick start on local
 -----------------------
 1. Install puppeteer library by command: 
-	pip install --upgrade robotframework-puppeteerlibrary
+	
+    `pip install --upgrade robotframework-puppeteerlibrary`
+
 1. Start test web app: Open new terminal and run
-    python demoapp/server.py
+    
+    `python demoapp/server.py`
+
 1. Run test: Open new terminal and run 
-    robot Examples
+    
+    `robot Examples`
