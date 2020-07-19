@@ -8,7 +8,8 @@ Quick start with Gitpod
 -----------------------
 1. Open Gitpod ready to code link: [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/qahive/robotframework-puppeteer-quickstart)
 1. Run test via command line: 
-    robot -v HEADLESS:True Examples 
+
+    `robot -v HEADLESS:True Examples`
 
 
 Quick start on local
